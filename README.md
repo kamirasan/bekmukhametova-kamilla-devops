@@ -6,3 +6,6 @@ DevOps Laboratory Work 1 — Linux, Git, Docker, Jenkins.
 - Group: IT2-2313
 - Student ID: 38239
 - Course: DevOps
+
+## How to run
+docker compose up
